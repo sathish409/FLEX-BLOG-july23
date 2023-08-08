@@ -257,15 +257,15 @@ flex-direction: column;
         width: 100%;
         margin-top: 16px;
     }
-    
-}form{
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    width: 100%;
-    box-shadow: var(--box-shadow);
-    padding: 1rem;
-    border-radius: 10px;
+    form{
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        width: 100%;
+        box-shadow: var(--box-shadow);
+        padding: 1rem;
+        border-radius: 10px;
+    }   
 }
 
     
